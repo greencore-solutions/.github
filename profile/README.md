@@ -16,4 +16,4 @@ Operated by GreenCore Solutions Corp.
 ## Company
 
 [gsc-em.com](https://gsc-em.com) · Microsoft AI Cloud Partner · D-U-N-S 24-336-6774
-GSC on Microsoft Azure: France Central · Australia East · South Central US · Mexico Central
+Microsoft Azure · agents resident in 18 countries worldwide
